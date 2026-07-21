@@ -1,0 +1,15 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data.
+
+Deep Learning is a subset of Machine Learning based on neural networks.
+
+Natural Language Processing helps computers understand human language.
+
+Retrieval-Augmented Generation (RAG) combines document retrieval with Large Language Models.
+
+FAISS is a vector database developed by Facebook AI for similarity search.
+
+Embeddings convert text into numerical vectors that capture semantic meaning.
+
+Large Language Models generate human-like text using deep neural networks.
